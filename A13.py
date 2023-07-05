@@ -1,6 +1,3 @@
-# NAME: NEEL SAHNI
-# ID: 2791114924
-# DATE: 2023-04-14
 # DESCRIPTION: Program in which the user is provided their most recommended friend by finding individuals with
 # the greatest number of mutual friends
 
