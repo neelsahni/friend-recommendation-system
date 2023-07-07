@@ -6,6 +6,19 @@ A program that suggests the most recommended friend for a user by identifying in
 
 The friend recommendation system is designed to analyze a social network and provide users with a friend suggestion based on the number of mutual friends. The program reads a file containing information about the connections between network members and calculates a similarity score for each pair of members. The user can then enter a member ID to receive a friend recommendation based on the calculated scores.
 
+## Running the Program
+
+Ensure that a file is entered with the following format to properly run the program:
+
+    <number_of_users>
+    <friend_a> <friend_b>
+    <friend_c> <friend_d>
+    ...
+
+Note that each friend pair indicates a connection between 2 friends. 
+
+When prompted, input the ID number of the user that is looking for a friend suggestion.
+
 ## Sample Output
 
     Facebook friend recommendation.
