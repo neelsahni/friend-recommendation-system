@@ -1,6 +1,6 @@
 # Friend Recommendation System
 
-A program that suggests the most recommended friend for a user by identifying individuals with the greatest number of mutual friends.
+A Python program that suggests the most recommended friend for a user by identifying individuals with the greatest number of mutual friends.
 
 ## Description
 
