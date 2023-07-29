@@ -1,7 +1,5 @@
 # Friend Recommendation System
 
-A Python program that suggests the most recommended friend for a user by identifying individuals with the greatest number of mutual friends.
-
 ## Description
 
 The friend recommendation system is designed to analyze a social network and provide users with a friend suggestion based on the number of mutual friends. The program reads a file containing information about the connections between network members and calculates a similarity score for each pair of members. The user can then enter a member ID to receive a friend recommendation based on the calculated scores.
