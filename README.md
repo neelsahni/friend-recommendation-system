@@ -2,7 +2,7 @@
 
 ## Description
 
-The friend recommendation system is designed to analyze a social network and provide users with a friend suggestion based on the number of mutual friends. The program reads a file containing information about the connections between network members and calculates a similarity score for each pair of members. The user can then enter a member ID to receive a friend recommendation based on the calculated scores.
+The friend recommendation system is designed to analyze a social network and provide users with a friend suggestion based on the number of mutual friends. The program reads a file containing information about the connections between network members and calculates a similarity score for each pair of members. Then, the user enters a member ID to receive a friend recommendation based on the calculated scores. The recommended friend has the most connections with the user.
 
 ## Running the Program
 
